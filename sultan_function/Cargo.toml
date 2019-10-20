@@ -1,0 +1,12 @@
+[package]
+name = "sultan_function"
+version = "0.1.0"
+authors = ["Sultan"]
+edition = "2018"
+description = "First function"
+license = "MIT"
+repository = "https://github.com/Sultan336/Rust_library"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
